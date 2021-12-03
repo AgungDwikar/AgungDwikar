@@ -2,7 +2,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Agung Dwika Rudiyanto, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Agung Dwika Rudiyanto, I'm a Web Developer.
   
 I'm a Fresh Graduate Student, Web Developer
 
@@ -42,5 +42,4 @@ I'm a Fresh Graduate Student, Web Developer
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<AgungDwikar>&theme=<THEME_NAME>" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
