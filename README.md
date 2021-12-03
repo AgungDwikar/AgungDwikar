@@ -9,6 +9,8 @@
 [![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
 </div>
 
+<hr>
+
 <div align="center">
 ### I'm a Fresh Graduate Student, Web Developer
 
