@@ -11,9 +11,7 @@ I'm a Fresh Graduate Student, Web Developer
 👯 I’m looking to forward to collaborate. 
 ⚡ Fun fact: I love hanifah
 
-[![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
-[![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
-[![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
+
 </div>
 
 <hr>
@@ -42,4 +40,8 @@ I'm a Fresh Graduate Student, Web Developer
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<hr>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AgungDwikar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=051937" />
+</div>
