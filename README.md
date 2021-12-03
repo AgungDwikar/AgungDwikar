@@ -12,12 +12,12 @@
 <hr>
 
 <div align="center">
-### I'm a Fresh Graduate Student, Web Developer
+I'm a Fresh Graduate Student, Web Developer
 
-- 🔭 I’m currently working on: backend and frontend, and some Personal Project
-- 🌱 I’m currently learning Html, Css, bootstrap, javascript, php, mySql, php framework codeigniter3 and laravel8
-- 👯 I’m looking to forward to collaborate. 
-- ⚡ Fun fact: I love hanifah
+🔭 I’m currently working on: <span color:"red"> backend and frontend, and some Personal Project <span>
+🌱 I’m currently learning Html, Css, bootstrap, javascript, php, mySql, php framework codeigniter3 and laravel8
+👯 I’m looking to forward to collaborate. 
+⚡ Fun fact: I love hanifah
 
 #### Languages:
 <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
