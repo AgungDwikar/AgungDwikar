@@ -14,7 +14,7 @@
 <div align="center">
 I'm a Fresh Graduate Student, Web Developer
 
-🔭 I’m currently working on: <font color="red"> backend and frontend, and some Personal Project <font>
+🔭 I’m currently working on: <font color="green"> backend and frontend, and some Personal Project </font>
 🌱 I’m currently learning Html, Css, bootstrap, javascript, php, mySql, php framework codeigniter3 and laravel8
 👯 I’m looking to forward to collaborate. 
 ⚡ Fun fact: I love hanifah
