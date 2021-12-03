@@ -3,6 +3,13 @@
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Agung Dwika Rudiyanto, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+  
+I'm a Fresh Graduate Student, Web Developer
+
+🔭 I’m currently working on: <font color="green"> backend and frontend, and some Personal Project </font>
+🌱 I’m currently learning Html, Css, bootstrap, javascript, php, mySql, php framework codeigniter3 and laravel8
+👯 I’m looking to forward to collaborate. 
+⚡ Fun fact: I love hanifah
 
 [![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
 [![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
@@ -12,12 +19,6 @@
 <hr>
 
 <div align="center">
-I'm a Fresh Graduate Student, Web Developer
-
-🔭 I’m currently working on: <font color="green"> backend and frontend, and some Personal Project </font>
-🌱 I’m currently learning Html, Css, bootstrap, javascript, php, mySql, php framework codeigniter3 and laravel8
-👯 I’m looking to forward to collaborate. 
-⚡ Fun fact: I love hanifah
 
 #### Languages:
 <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
