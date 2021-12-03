@@ -2,7 +2,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Agung Dwika Rudiyanto, I'm a Web Developer.
+<p>Hi, I'm Agung Dwika Rudiyanto, I'm Junior Web Developer.
   
 I'm a Fresh Graduate Student, Web Developer
 
@@ -45,8 +45,3 @@ I'm a Fresh Graduate Student, Web Developer
 <img src="https://github-readme-stats.vercel.app/api?username=AgungDwikar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=051937" />
 </div>
 
-<hr>
-
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgungDwikar&layout=compact)](https://github.com/AgungDwikar/github-readme-stats)
-<div>
