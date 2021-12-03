@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
 </div>
 
-
+<div align="center">
 ### I'm a Fresh Graduate Student, Web Developer
 
 - 🔭 I’m currently working on: backend and frontend, and some Personal Project
@@ -18,8 +18,6 @@
 - ⚡ Fun fact: I love hanifah
 
 #### Languages:
-
-<p style="text-align:center;">haloww</p>
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 
@@ -39,3 +37,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
+</div>
